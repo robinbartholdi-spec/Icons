@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="Wissenschaft, Bildung und Wissenstransfer">
+<title>Wissenschaft, Bildung und Wissenstransfer</title>
+<g fill="#102b3a" stroke="#102b3a" stroke-linejoin="round" stroke-linecap="round">
+<!-- graduation cap -->
+<path d="M8 29 44 14Q46 13 48 14L82 28Q84 29 82 31L48 44Q46 45 44 44L8 32Q5 31 8 29Z" stroke-width="1"/>
+<path d="M23 38V50Q43 59 65 50V38L48 45Q46 46 44 45Z" stroke-width="1"/>
+<path d="M13 33v15" fill="none" stroke-width="2.8"/>
+<path d="M13 46Q9 47 9 52L8 58Q13 61 18 58L17 52Q17 47 13 46Z"/>
+<!-- upper book -->
+<path d="M21 55H65Q62 60 65 64H21Q14 64 14 60Q14 55 21 55Z" fill="#fff" stroke-width="4"/>
+<path d="M24 60H56" fill="none" stroke-width="2.6"/>
+<!-- lower book -->
+<path d="M19 68H68Q63 76 68 84H19Q10 84 10 76Q10 68 19 68Z" fill="#fff" stroke-width="4"/>
+<path d="M23 74H57M23 79H57" fill="none" stroke-width="2.5"/>
+<!-- light bulb -->
+<path d="M70 66C66 62 66 57 66 53A15 15 0 0 1 96 53C96 58 94 62 90 67L88 75H74Z" fill="#fff" stroke-width="4"/>
+<path d="M77 74V62L73 58M77 62L81 58L85 62L89 58M85 62V74" fill="none" stroke-width="3.2"/>
+<path d="M75 80H88M77 85H86" fill="none" stroke-width="4"/>
+<path d="M80 89Q82 93 85 89Z" stroke="none"/>
+<path d="M81 32V27M65 38L61 34M95 38L99 34M96 52H99" fill="none" stroke-width="3.5"/>
+</g>
+</svg>
