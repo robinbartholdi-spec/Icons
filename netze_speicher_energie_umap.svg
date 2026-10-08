@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Netze, Speicher und Energieversorgung">
+<title>Netze, Speicher und Energieversorgung</title>
+<g fill="none" stroke="#102b3a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M17 20L46 20M17 20L32 45M46 20L32 45"/>
+<circle cx="17" cy="20" r="7" fill="#fff"/>
+<circle cx="46" cy="20" r="7" fill="#fff"/>
+<rect x="23" y="38" width="18" height="18" rx="5" fill="#fff"/>
+<path d="M27 45h10M27 50h10" stroke-width="2.8"/>
+</g>
+</svg>
