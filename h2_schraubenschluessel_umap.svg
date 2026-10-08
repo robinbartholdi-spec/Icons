@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<title>Wasserstoff – Anlagenbau und Wartung</title>
+<g fill="none" stroke="#123246" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="25" cy="25" r="19"/>
+<path d="M53 13a13 13 0 0 0-14 16L24 44a8 8 0 1 0 11 11l15-15a13 13 0 0 0 11-17l-8 8-8-2-2-8z" fill="#fff"/>
+<circle cx="29" cy="50" r="2.2" fill="#123246" stroke="none"/>
+</g>
+<text x="23.5" y="31" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="bold" fill="#123246" text-anchor="middle">H₂</text>
+</svg>
