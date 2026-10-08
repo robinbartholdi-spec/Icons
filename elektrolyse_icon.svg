@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Wasserelektrolyse: Sauerstoff und Wasserstoff">
+ <g fill="none" stroke="#172B38" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 27v27h40V27"/>
+  <path d="M12 39q5-4 10 0t10 0t10 0t10 0" stroke="#168CB0"/>
+  <path d="M23 23V14H10V6M41 23V14h13V6"/>
+  <path d="M10 10V5m-4 4 4-4 4 4M54 10V5m-4 4 4-4 4 4"/>
+  <rect x="19" y="23" width="9" height="24" rx="2" fill="#F7FBFD"/>
+  <rect x="36" y="23" width="9" height="24" rx="2" fill="#F7FBFD"/>
+  <path d="M22 35h3M39 35h3m-1.5-1.5v3" stroke-width="2.4"/>
+  <circle cx="32" cy="46" r="2" stroke="#168CB0" stroke-width="2"/>
+  <circle cx="33" cy="52" r="1" stroke="#168CB0" stroke-width="1.8"/>
+ </g>
+ <g fill="#172B38" font-family="Arial,Helvetica,sans-serif" font-size="10" font-weight="700" text-anchor="middle">
+  <text x="10" y="23">O₂</text><text x="54" y="23">H₂</text>
+ </g>
+</svg>
