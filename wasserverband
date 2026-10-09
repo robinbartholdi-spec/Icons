@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 64 64"
+     width="64"
+     height="64">
+
+  <g fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Wassertropfen -->
+    <path d="
+      M44 5
+      C44 5 34 19 34 26
+      C34 33 38.5 37 44 37
+      C49.5 37 54 33 54 26
+      C54 19 44 5 44 5
+      Z" />
+
+    <!-- kleine Welle im Tropfen -->
+    <path d="M40 29 C43 31 47 30 49 27" />
+
+    <!-- Hand / Arm -->
+    <path d="
+      M18 40
+      L27 37
+      C29 36.5 31 37 33 38
+      L42 43
+      C44 44 45 46 44 48
+      C43 50 41 50 39 49
+      L32 46" />
+
+    <path d="
+      M22 52
+      L38 59
+      C40 60 42 60 44 59
+      L57 54
+      C60 53 61 50 59 48
+      C58 47 56 47 54 48
+      L44 51" />
+
+    <!-- Manschette -->
+    <path d="M12 39 L18 38 L23 55 L17 57 Z" />
+
+    <!-- kleines Detail an der Manschette -->
+    <circle cx="17" cy="44" r="1"
+            fill="#000000"
+            stroke="none" />
+
+  </g>
+</svg>
